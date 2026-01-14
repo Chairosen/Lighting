@@ -1255,3 +1255,1161 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.14-07.57.20:613][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 978.533691
 [2026.01.14-07.57.20:768][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.14-07.57.20:768][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 978.678955, Update Interval: 321.098053
+[2026.01.14-08.02.52:088][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1310.000366
+[2026.01.14-08.02.53:089][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.02.53:089][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1310.666992, Update Interval: 335.353241
+[2026.01.14-08.08.48:610][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1666.524414
+[2026.01.14-08.08.49:612][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.08.49:612][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1667.191895, Update Interval: 317.683044
+[2026.01.14-08.14.52:700][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2030.613770
+[2026.01.14-08.14.53:701][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.14.53:701][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2031.280884, Update Interval: 343.448608
+[2026.01.14-08.21.11:640][353]LogPSOHitching: Encountered 300 PSO creation hitches so far (62 graphics, 238 compute). 0 of them were precached.
+[2026.01.14-08.21.15:550][694]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.14-08.21.15:583][694]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.14-08.21.15:593][695]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.14-08.21.23:151][511]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2026.01.14-08.21.23:152][511]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.14-08.21.26:404][865]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.21.40:504][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2438.422852
+[2026.01.14-08.21.40:695][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.21.40:695][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2438.594482, Update Interval: 303.543213
+[2026.01.14-08.21.43:351][115]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.14-08.21.43:357][115]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.14-08.21.43:366][116]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.14-08.21.51:968][ 90]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2026.01.14-08.21.51:969][ 90]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.14-08.21.54:916][397]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.01.14-08.21.54:923][397]LogContentBrowser: Creating deferred item: NewWorld
+[2026.01.14-08.21.54:973][399]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.01.14-08.22.00:929][ 58]LogContentBrowser: Attempting asset rename: NewWorld -> L_Light
+[2026.01.14-08.22.00:931][ 58]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Light
+[2026.01.14-08.22.00:942][ 58]LogContentBrowser: End creating deferred item NewWorld
+[2026.01.14-08.22.01:940][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.14-08.22.05:199][155]LogSlate: Window 'Enregistrer le contenu' being destroyed
+[2026.01.14-08.22.05:212][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-08.22.05:268][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.14-08.22.05:288][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.14-08.22.05:304][155]LogSavePackage: Moving output files for package: /Game/Levels/L_Light
+[2026.01.14-08.22.05:304][155]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light73848CCC45FB97275FBC739914C7B315.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap'
+[2026.01.14-08.22.05:309][155]LogFileHelpers: Saving map 'L_Light' took 0.042
+[2026.01.14-08.22.05:370][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.996 ms
+[2026.01.14-08.22.05:371][155]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_Light.L_Light
+[2026.01.14-08.22.05:373][155]Cmd: MAP LOAD FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.14-08.22.05:434][155]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-08.22.05:436][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.22.05:436][155]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.01.14-08.22.05:468][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-08.22.05:483][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.14-08.22.05:486][155]LogWorld: UWorld::CleanupWorld for L_Light, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-08.22.05:487][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.22.05:507][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.14-08.22.05:531][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.01.14-08.22.05:532][155]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.22.05:533][155]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Light'.
+[2026.01.14-08.22.05:533][155]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Light
+[2026.01.14-08.22.05:550][155]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.14-08.22.05:570][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.14-08.22.05:581][155]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.14-08.22.05:581][155]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,061ms pour s'exécuter.
+[2026.01.14-08.22.05:652][155]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-08.22.05:652][155]LogContentValidation: Enabled validators:
+[2026.01.14-08.22.05:652][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-08.22.05:652][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-08.22.05:653][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-08.22.05:653][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-08.22.05:653][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-08.22.05:653][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-08.22.05:654][155]AssetCheck: /Game/Levels/L_Light Validation de la ressource
+[2026.01.14-08.22.05:676][155]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-08.22.05:751][157]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-08.22.20:244][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-08.22.20:244][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.14-08.22.20:247][836]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_0
+[2026.01.14-08.22.20:249][836]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_0
+[2026.01.14-08.22.20:598][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.14-08.22.22:792][986]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.14-08.22.25:292][263]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.22.53:300][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Total job queries 2 531, among them cache hits 618 (24.42%), DDC hits 1 803 (71.24%), Duplicates 108 (4.27%)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Tracking 1 805 distinct input hashes that result in 1 133 distinct outputs (62.77%)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: RAM used: 11,59 MiB of 819,20 MiB budget. Usage: 1.41%
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Job execution time: average 1.75 s, max 2.05 s
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Job life time (pending + execution): average 1.80 s, max 2.11
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Shader code size: total 19,844 KiB, numShaders 2, average 9,922 KiB, min 7,945 KiB, max 11,898 KiB
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.11 s
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Average processing rate: 0.95 jobs/sec
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Total thread time: 2,054 s
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Total thread preprocess time: 48,499 s
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Percentage time preprocessing: 2360.87%
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.121966
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display:                                TVirtualTextureVSDisplacement (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.14-08.23.08:105][867]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 64.47% of total time (compiled    1 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.53% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display:                                TVirtualTextureVSDisplacement - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display:                    TVirtualTexturePSBaseColorNormalRoughness - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Materials Translated:    143
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Material Translation Only: 0.06 s (37%)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-08.23.08:106][867]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.23.09:052][966]LogSlate: Took 0.001779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2026.01.14-08.23.09:066][966]LogSlate: Took 0.006873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.01.14-08.23.10:248][102]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2026.01.14-08.23.10:248][102]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2026.01.14-08.23.10:581][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.23.10:602][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.23.10:607][103]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.01.14-08.23.10:611][103]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.01.14-08.23.10:613][103]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.01.14-08.23.10:614][103]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.01.14-08.23.11:679][218]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.01.14-08.23.11:684][218]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.01.14-08.23.18:227][973]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.01.14-08.23.18:227][973]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.01.14-08.23.18:229][973]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/L_Light.L_Light:PersistentLevel.DirectionalLight_0
+[2026.01.14-08.23.18:230][973]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/L_Light.L_Light:PersistentLevel.DirectionalLight_0
+[2026.01.14-08.23.18:564][976]LogPSOHitching: Encountered 350 PSO creation hitches so far (82 graphics, 268 compute). 0 of them were precached.
+[2026.01.14-08.23.20:442][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.23.36:860][365]LogStreaming: Display: FlushAsyncLoading(425): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.23.36:918][365]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/game/Downloads/Female_head_Zbrush.fbx]
+[2026.01.14-08.23.48:224][365]LogSlate: Window 'Import Content' being destroyed
+[2026.01.14-08.23.48:253][365]LogInterchangeEngine: [Pending] Importing
+[2026.01.14-08.23.48:550][368]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.23.48:689][369]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.23.48:772][370]LogStaticMesh: Display: Building static mesh FemaleHead (Required Memory Estimate: 38.862505 MB)...
+[2026.01.14-08.23.48:772][371]LogStaticMesh: Display: Building static mesh eyes (Required Memory Estimate: 36.712536 MB)...
+[2026.01.14-08.23.48:866][375]LogStaticMesh: Adjacency [0.00s], tris: 25940, UVs 1
+[2026.01.14-08.23.48:881][376]LogStaticMesh: Clustering [0.02s]. Ratio: 1.014778
+[2026.01.14-08.23.48:887][377]LogStaticMesh: Leaves [0.01s]
+[2026.01.14-08.23.48:890][377]LogStaticMesh: Adjacency [0.00s], tris: 23856, UVs 1
+[2026.01.14-08.23.48:918][378]LogStaticMesh: Clustering [0.03s]. Ratio: 1.010695
+[2026.01.14-08.23.48:922][378]LogStaticMesh: Leaves [0.00s]
+[2026.01.14-08.23.49:400][406]LogStaticMesh: Reduce [0.51s]
+[2026.01.14-08.23.49:460][410]LogStaticMesh: Reduce [0.54s]
+[2026.01.14-08.23.49:528][415]LogStaticMesh: Fallback [0.13s], num tris: 2110
+[2026.01.14-08.23.49:578][420]LogStaticMesh: Fallback [0.12s], num tris: 1944
+[2026.01.14-08.23.49:623][425]LogStaticMesh: Fallback [0.09s], num tris: 1114
+[2026.01.14-08.23.49:629][425]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.23.49:629][425]LogStaticMesh:   Input: 420 Clusters, 52894 Triangles and 33511 Vertices
+[2026.01.14-08.23.49:629][425]LogStaticMesh:   Output without splits: 420 Clusters, 52894 Triangles and 35013 Vertices
+[2026.01.14-08.23.49:629][425]LogStaticMesh:   Output with splits: 420 Clusters, 52894 Triangles and 35013 Vertices
+[2026.01.14-08.23.49:630][425]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 420, Slow Path Clusters: 0, 1 Material: 420, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.23.49:639][426]LogStaticMesh: WritePages:
+[2026.01.14-08.23.49:639][426]LogStaticMesh:   Root: GPU size: 32348 bytes. 1 Pages. 32348.000 bytes per page (98.718% utilization).
+[2026.01.14-08.23.49:639][426]LogStaticMesh:   Streaming: GPU size: 320140 bytes. 3 Pages (3 with relative encoding). 106713.336 bytes per page (81.416% utilization).
+[2026.01.14-08.23.49:639][426]LogStaticMesh:   Page data disk size: 303868 bytes. Fixup data size: 1896 bytes.
+[2026.01.14-08.23.49:639][426]LogStaticMesh:   Total GPU size: 352488 bytes, Total disk size: 305764 bytes.
+[2026.01.14-08.23.49:639][426]LogStaticMesh: Encode [0.02s]
+[2026.01.14-08.23.49:639][426]LogStaticMesh: NaniteBuild [0.78s]
+[2026.01.14-08.23.49:689][430]LogStaticMesh: Fallback [0.11s], num tris: 1122
+[2026.01.14-08.23.49:696][431]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.23.49:697][431]LogStaticMesh:   Input: 390 Clusters, 49168 Triangles and 33942 Vertices
+[2026.01.14-08.23.49:697][431]LogStaticMesh:   Output without splits: 390 Clusters, 49168 Triangles and 34755 Vertices
+[2026.01.14-08.23.49:697][431]LogStaticMesh:   Output with splits: 390 Clusters, 49168 Triangles and 34755 Vertices
+[2026.01.14-08.23.49:697][431]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 390, Slow Path Clusters: 0, 1 Material: 390, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.23.49:704][431]LogStaticMesh: WritePages:
+[2026.01.14-08.23.49:704][431]LogStaticMesh:   Root: GPU size: 32508 bytes. 1 Pages. 32508.000 bytes per page (99.207% utilization).
+[2026.01.14-08.23.49:704][431]LogStaticMesh:   Streaming: GPU size: 413344 bytes. 4 Pages (4 with relative encoding). 103336.000 bytes per page (78.839% utilization).
+[2026.01.14-08.23.49:704][431]LogStaticMesh:   Page data disk size: 372052 bytes. Fixup data size: 2088 bytes.
+[2026.01.14-08.23.49:704][431]LogStaticMesh:   Total GPU size: 445852 bytes, Total disk size: 374140 bytes.
+[2026.01.14-08.23.49:704][431]LogStaticMesh: Encode [0.01s]
+[2026.01.14-08.23.49:704][431]LogStaticMesh: NaniteBuild [0.82s]
+[2026.01.14-08.23.49:716][432]LogStaticMesh: Built static mesh [0.95s] /Game/Meshes/FemaleHead.FemaleHead
+[2026.01.14-08.23.49:784][438]LogStaticMesh: Built static mesh [1.01s] /Game/Meshes/eyes.eyes
+[2026.01.14-08.23.49:992][445]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.059 Y=3.817 Z=9.500, BoxExtent=(X=3.544 Y=2.079 Z=3.879), SphereRadius=(5.583219)) and MeshDescription Bounds (Origin=X=-0.015 Y=3.809 Z=9.253, BoxExtent=(X=3.303 Y=2.029 Z=3.533), SphereRadius=(4.337214)) is significative for StaticMesh /Game/Meshes/eyes.eyes
+[2026.01.14-08.23.50:035][445]LogInterchangeEngine: Display: Interchange import completed [C:/Users/game/Downloads/Female_head_Zbrush.fbx]
+[2026.01.14-08.23.50:036][445]Interchange: Warning: [C:/Users/game/Downloads/Female_head_Zbrush.fbx : 'FemaleHead', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.14-08.23.50:036][445]Interchange: Warning: [C:/Users/game/Downloads/Female_head_Zbrush.fbx : 'eyes', StaticMesh] No smoothing group information was found for this mesh 'Mesh_ncl_1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.14-08.23.50:041][445]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.14-08.23.50:041][445]LogInterchangeEngine: [Success] Import Done
+[2026.01.14-08.23.50:159][448]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.059 Y=3.817 Z=9.500, BoxExtent=(X=3.544 Y=2.079 Z=3.879), SphereRadius=(5.583219)) and MeshDescription Bounds (Origin=X=-0.015 Y=3.809 Z=9.253, BoxExtent=(X=3.303 Y=2.029 Z=3.533), SphereRadius=(4.337214)) is significative for StaticMesh /Game/Meshes/eyes.eyes
+[2026.01.14-08.23.52:398][632]LogSlate: Took 0.001229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.01.14-08.24.05:021][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead.FemaleHead
+[2026.01.14-08.24.05:021][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead.FemaleHead
+[2026.01.14-08.24.05:022][570]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/FemaleHead.FemaleHead as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_1
+[2026.01.14-08.24.06:366][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.01.14-08.24.06:368][694]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.01.14-08.24.06:386][694]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead.FemaleHead
+[2026.01.14-08.24.06:386][694]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead.FemaleHead
+[2026.01.14-08.24.06:387][694]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/FemaleHead.FemaleHead as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_2
+[2026.01.14-08.24.07:131][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.24.13:978][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.24.38:316][978]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.24.43:867][490]Cmd: DELETE
+[2026.01.14-08.24.43:867][490]Cmd: ACTOR DELETE
+[2026.01.14-08.24.43:881][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-08.24.43:906][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.14-08.24.43:909][490]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.01.14-08.24.48:249][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.14-08.24.48:367][870]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.14-08.24.48:378][870]LogSlate: Took 0.010874 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.14-08.24.50:044][870]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.14-08.24.50:082][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.14-08.24.50:104][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.14-08.24.50:124][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.14-08.24.53:633][ 95]LogStreaming: Display: FlushAsyncLoading(433): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.24.53:685][ 95]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/game/Downloads/Female_head_Zbrush.fbx]
+[2026.01.14-08.24.57:429][ 95]LogSlate: Window 'Import Content' being destroyed
+[2026.01.14-08.24.57:448][ 95]LogInterchangeEngine: [Pending] Importing
+[2026.01.14-08.24.57:516][ 96]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.24.57:763][ 98]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.24.57:906][ 99]LogStreaming: Display: FlushAsyncLoading(437): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.24.57:989][100]LogStaticMesh: Display: Building static mesh FemaleHead1 (Required Memory Estimate: 38.862505 MB)...
+[2026.01.14-08.24.57:990][101]LogStaticMesh: Display: Building static mesh eyes1 (Required Memory Estimate: 36.712536 MB)...
+[2026.01.14-08.24.58:100][103]LogStaticMesh: Adjacency [0.00s], tris: 25940, UVs 1
+[2026.01.14-08.24.58:123][105]LogStaticMesh: Clustering [0.02s]. Ratio: 1.014778
+[2026.01.14-08.24.58:128][105]LogStaticMesh: Leaves [0.01s]
+[2026.01.14-08.24.58:140][106]LogStaticMesh: Adjacency [0.01s], tris: 23856, UVs 1
+[2026.01.14-08.24.58:170][108]LogStaticMesh: Clustering [0.03s]. Ratio: 1.010695
+[2026.01.14-08.24.58:174][108]LogStaticMesh: Leaves [0.00s]
+[2026.01.14-08.24.58:665][149]LogStaticMesh: Reduce [0.54s]
+[2026.01.14-08.24.58:724][154]LogStaticMesh: Reduce [0.55s]
+[2026.01.14-08.24.58:812][161]LogStaticMesh: Fallback [0.15s], num tris: 2110
+[2026.01.14-08.24.58:868][165]LogStaticMesh: Fallback [0.14s], num tris: 1944
+[2026.01.14-08.24.58:933][170]LogStaticMesh: Fallback [0.12s], num tris: 1114
+[2026.01.14-08.24.58:939][170]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.24.58:940][170]LogStaticMesh:   Input: 420 Clusters, 52894 Triangles and 33511 Vertices
+[2026.01.14-08.24.58:940][170]LogStaticMesh:   Output without splits: 420 Clusters, 52894 Triangles and 35013 Vertices
+[2026.01.14-08.24.58:940][170]LogStaticMesh:   Output with splits: 420 Clusters, 52894 Triangles and 35013 Vertices
+[2026.01.14-08.24.58:941][170]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 420, Slow Path Clusters: 0, 1 Material: 420, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.24.58:950][171]LogStaticMesh: WritePages:
+[2026.01.14-08.24.58:950][171]LogStaticMesh:   Root: GPU size: 32348 bytes. 1 Pages. 32348.000 bytes per page (98.718% utilization).
+[2026.01.14-08.24.58:950][171]LogStaticMesh:   Streaming: GPU size: 320140 bytes. 3 Pages (3 with relative encoding). 106713.336 bytes per page (81.416% utilization).
+[2026.01.14-08.24.58:950][171]LogStaticMesh:   Page data disk size: 303868 bytes. Fixup data size: 1896 bytes.
+[2026.01.14-08.24.58:950][171]LogStaticMesh:   Total GPU size: 352488 bytes, Total disk size: 305764 bytes.
+[2026.01.14-08.24.58:950][171]LogStaticMesh: Encode [0.02s]
+[2026.01.14-08.24.58:950][171]LogStaticMesh: NaniteBuild [0.85s]
+[2026.01.14-08.24.59:008][175]LogStaticMesh: Fallback [0.14s], num tris: 1122
+[2026.01.14-08.24.59:015][175]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.24.59:015][175]LogStaticMesh:   Input: 390 Clusters, 49168 Triangles and 33942 Vertices
+[2026.01.14-08.24.59:015][175]LogStaticMesh:   Output without splits: 390 Clusters, 49168 Triangles and 34755 Vertices
+[2026.01.14-08.24.59:015][175]LogStaticMesh:   Output with splits: 390 Clusters, 49168 Triangles and 34755 Vertices
+[2026.01.14-08.24.59:016][175]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 390, Slow Path Clusters: 0, 1 Material: 390, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.24.59:028][176]LogStaticMesh: WritePages:
+[2026.01.14-08.24.59:028][176]LogStaticMesh:   Root: GPU size: 32508 bytes. 1 Pages. 32508.000 bytes per page (99.207% utilization).
+[2026.01.14-08.24.59:028][176]LogStaticMesh:   Streaming: GPU size: 413344 bytes. 4 Pages (4 with relative encoding). 103336.000 bytes per page (78.839% utilization).
+[2026.01.14-08.24.59:028][176]LogStaticMesh:   Page data disk size: 372052 bytes. Fixup data size: 2088 bytes.
+[2026.01.14-08.24.59:028][176]LogStaticMesh:   Total GPU size: 445852 bytes, Total disk size: 374140 bytes.
+[2026.01.14-08.24.59:028][176]LogStaticMesh: Encode [0.02s]
+[2026.01.14-08.24.59:028][176]LogStaticMesh: NaniteBuild [0.89s]
+[2026.01.14-08.24.59:038][177]LogStaticMesh: Built static mesh [1.05s] /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.24.59:124][184]LogStaticMesh: Built static mesh [1.14s] /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.24.59:261][194]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.059 Y=3.817 Z=9.500, BoxExtent=(X=3.544 Y=2.079 Z=3.879), SphereRadius=(5.583219)) and MeshDescription Bounds (Origin=X=-0.015 Y=3.809 Z=9.253, BoxExtent=(X=3.303 Y=2.029 Z=3.533), SphereRadius=(4.337214)) is significative for StaticMesh /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.25.00:020][266]LogInterchangeEngine: Display: Interchange import completed [C:/Users/game/Downloads/Female_head_Zbrush.fbx]
+[2026.01.14-08.25.00:021][266]Interchange: Warning: [C:/Users/game/Downloads/Female_head_Zbrush.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Meshes/FemaleHead] NewName:[/Game/Meshes/FemaleHead1]
+ OriginalName:[/Game/Meshes/eyes] NewName:[/Game/Meshes/eyes1]
+[2026.01.14-08.25.00:021][266]Interchange: Warning: [C:/Users/game/Downloads/Female_head_Zbrush.fbx : 'FemaleHead1', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.14-08.25.00:021][266]Interchange: Warning: [C:/Users/game/Downloads/Female_head_Zbrush.fbx : 'eyes1', StaticMesh] No smoothing group information was found for this mesh 'Mesh_ncl_1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.01.14-08.25.00:035][266]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.14-08.25.00:035][266]LogInterchangeEngine: [Success] Import Done
+[2026.01.14-08.25.00:076][267]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.059 Y=3.817 Z=9.500, BoxExtent=(X=3.544 Y=2.079 Z=3.879), SphereRadius=(5.583219)) and MeshDescription Bounds (Origin=X=-0.015 Y=3.809 Z=9.253, BoxExtent=(X=3.303 Y=2.029 Z=3.533), SphereRadius=(4.337214)) is significative for StaticMesh /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.25.00:178][268]LogMaterial: Display: Material /Game/Meshes/eyes.eyes needed to have new flag set bUsedWithNanite !
+[2026.01.14-08.25.12:150][380]LogMaterial: Display: Material /Game/Meshes/FemaleHead.FemaleHead needed to have new flag set bUsedWithNanite !
+[2026.01.14-08.25.22:090][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-08.25.22:146][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.14-08.25.22:218][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.14-08.25.22:228][252]LogSavePackage: Moving output files for package: /Game/Levels/L_Light
+[2026.01.14-08.25.22:228][252]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light1948969244CE23C0DBD284B05E5E25FE.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap'
+[2026.01.14-08.25.22:238][252]LogFileHelpers: Saving map 'L_Light' took 0.094
+[2026.01.14-08.25.22:248][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.132 ms (total: 316.128 ms)
+[2026.01.14-08.25.22:273][252]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.14-08.25.22:274][252]LogContentValidation: Enabled validators:
+[2026.01.14-08.25.22:274][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-08.25.22:274][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-08.25.22:274][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-08.25.22:274][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-08.25.22:274][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-08.25.22:274][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-08.25.22:274][252]AssetCheck: /Game/Levels/L_Light Validating asset
+[2026.01.14-08.25.23:054][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.01.14-08.25.23:058][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-08.25.23:104][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/eyes] ([1] browsable assets)...
+[2026.01.14-08.25.23:149][340]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/eyes.eyes]
+[2026.01.14-08.25.23:149][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/eyes]
+[2026.01.14-08.25.23:149][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/eyes" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes.uasset" SILENT=true
+[2026.01.14-08.25.23:158][340]LogSavePackage: Moving output files for package: /Game/Meshes/eyes
+[2026.01.14-08.25.23:158][340]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/eyesEA16FB0A4136A5183CF31A96B124319B.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes.uasset'
+[2026.01.14-08.25.23:159][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/FemaleHead] ([1] browsable assets)...
+[2026.01.14-08.25.23:166][340]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Meshes/FemaleHead.FemaleHead]
+[2026.01.14-08.25.23:166][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/FemaleHead]
+[2026.01.14-08.25.23:166][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/FemaleHead" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead.uasset" SILENT=true
+[2026.01.14-08.25.23:173][340]LogSavePackage: Moving output files for package: /Game/Meshes/FemaleHead
+[2026.01.14-08.25.23:173][340]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/FemaleHeadACA13E3542CBF590E84A74A129AE04A0.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead.uasset'
+[2026.01.14-08.25.23:174][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/FemaleHead1] ([1] browsable assets)...
+[2026.01.14-08.25.23:183][340]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1]
+[2026.01.14-08.25.23:183][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/FemaleHead1]
+[2026.01.14-08.25.23:183][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/FemaleHead1" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead1.uasset" SILENT=true
+[2026.01.14-08.25.23:199][340]LogSavePackage: Moving output files for package: /Game/Meshes/FemaleHead1
+[2026.01.14-08.25.23:199][340]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/FemaleHead14CC0212E44B7E41562A85B84AD9B33FF.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead1.uasset'
+[2026.01.14-08.25.23:200][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/eyes1] ([1] browsable assets)...
+[2026.01.14-08.25.23:208][340]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/eyes1.eyes1]
+[2026.01.14-08.25.23:208][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/eyes1]
+[2026.01.14-08.25.23:208][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/eyes1" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes1.uasset" SILENT=true
+[2026.01.14-08.25.23:226][340]LogSavePackage: Moving output files for package: /Game/Meshes/eyes1
+[2026.01.14-08.25.23:226][340]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/eyes1D404DA6B4402434D4EF42DB0E81902EA.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes1.uasset'
+[2026.01.14-08.25.23:235][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.546 ms (total: 492.675 ms)
+[2026.01.14-08.25.23:276][340]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.14-08.25.23:276][340]LogContentValidation: Enabled validators:
+[2026.01.14-08.25.23:276][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-08.25.23:276][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-08.25.23:276][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-08.25.23:276][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-08.25.23:276][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-08.25.23:276][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-08.25.23:276][340]AssetCheck: /Game/Meshes/eyes Validating asset
+[2026.01.14-08.25.23:276][340]AssetCheck: /Game/Meshes/FemaleHead Validating asset
+[2026.01.14-08.25.23:276][340]AssetCheck: /Game/Meshes/FemaleHead1 Validating asset
+[2026.01.14-08.25.23:276][340]AssetCheck: /Game/Meshes/eyes1 Validating asset
+[2026.01.14-08.25.23:292][340]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-08.25.35:789][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-08.25.35:789][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/eyes1] ([1] browsable assets)...
+[2026.01.14-08.25.35:789][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/eyes1]
+[2026.01.14-08.25.35:789][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/eyes1" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes1.uasset" SILENT=true
+[2026.01.14-08.25.35:805][428]LogSavePackage: Moving output files for package: /Game/Meshes/eyes1
+[2026.01.14-08.25.35:805][428]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/eyes12F9BCE764FF6E3984E9201AFBEF72A27.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes1.uasset'
+[2026.01.14-08.25.35:806][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/FemaleHead1] ([1] browsable assets)...
+[2026.01.14-08.25.35:806][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/FemaleHead1]
+[2026.01.14-08.25.35:806][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/FemaleHead1" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead1.uasset" SILENT=true
+[2026.01.14-08.25.35:819][428]LogSavePackage: Moving output files for package: /Game/Meshes/FemaleHead1
+[2026.01.14-08.25.35:820][428]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/FemaleHead10F86DFF5474DEC0A470B3BA18C0CEE6E.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead1.uasset'
+[2026.01.14-08.25.35:820][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/eyes] ([1] browsable assets)...
+[2026.01.14-08.25.35:820][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/eyes]
+[2026.01.14-08.25.35:820][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/eyes" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/eyes.uasset" SILENT=true
+[2026.01.14-08.25.35:826][428]LogSavePackage: Moving output files for package: /Game/Materials/eyes
+[2026.01.14-08.25.35:826][428]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/eyes73F0D6104D082AC06334FB9A65AF696C.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/eyes.uasset'
+[2026.01.14-08.25.35:827][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/FemaleHead] ([1] browsable assets)...
+[2026.01.14-08.25.35:827][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/FemaleHead]
+[2026.01.14-08.25.35:827][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/FemaleHead" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/FemaleHead.uasset" SILENT=true
+[2026.01.14-08.25.35:832][428]LogSavePackage: Moving output files for package: /Game/Materials/FemaleHead
+[2026.01.14-08.25.35:832][428]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/FemaleHeadB62AEB0E4A4A2661FA1CE193AA918BF5.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/FemaleHead.uasset'
+[2026.01.14-08.25.35:833][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.707 ms (total: 536.383 ms)
+[2026.01.14-08.25.35:900][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.14-08.25.35:921][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.01.14-08.25.35:941][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.01.14-08.25.35:962][428]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.14-08.25.35:962][428]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.14-08.25.35:962][428]LogContentValidation: Enabled validators:
+[2026.01.14-08.25.35:962][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-08.25.35:962][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-08.25.35:962][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-08.25.35:962][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-08.25.35:962][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-08.25.35:962][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-08.25.35:962][428]AssetCheck: /Game/Meshes/eyes1 Validating asset
+[2026.01.14-08.25.35:962][428]AssetCheck: /Game/Meshes/FemaleHead1 Validating asset
+[2026.01.14-08.25.35:962][428]AssetCheck: /Game/Materials/eyes Validating asset
+[2026.01.14-08.25.35:962][428]AssetCheck: /Game/Materials/FemaleHead Validating asset
+[2026.01.14-08.25.35:972][428]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-08.25.37:933][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.37:933][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.37:933][607]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1 as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_3
+[2026.01.14-08.25.38:865][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.14-08.25.38:867][695]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.01.14-08.25.38:874][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.38:874][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.38:875][695]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1 as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_4
+[2026.01.14-08.25.46:069][388]Cmd: DELETE
+[2026.01.14-08.25.46:069][388]Cmd: ACTOR DELETE
+[2026.01.14-08.25.46:071][388]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-08.25.46:095][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.01.14-08.25.46:096][388]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.01.14-08.25.48:147][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.48:148][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.48:148][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1 as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_5
+[2026.01.14-08.25.48:149][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.25.48:149][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.25.48:149][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/eyes1.eyes1 as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_6
+[2026.01.14-08.25.49:152][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.14-08.25.49:154][651]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.01.14-08.25.49:174][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.01.14-08.25.49:176][651]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.01.14-08.25.49:182][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.49:182][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1
+[2026.01.14-08.25.49:183][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/FemaleHead1.FemaleHead1 as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_7
+[2026.01.14-08.25.49:184][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.25.49:184][651]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/eyes1.eyes1
+[2026.01.14-08.25.49:184][651]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/eyes1.eyes1 as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_8
+[2026.01.14-08.25.49:883][717]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: Total job queries 2 579, among them cache hits 647 (25.09%), DDC hits 1 805 (69.99%), Duplicates 114 (4.42%)
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: Tracking 1 818 distinct input hashes that result in 1 144 distinct outputs (62.93%)
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: RAM used: 11,72 MiB of 819,20 MiB budget. Usage: 1.43%
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: Shaders Compiled: 13
+[2026.01.14-08.26.08:105][404]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Average time worker was idle: 62.74 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Job execution time: average 2.45 s, max 3.78 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Job life time (pending + execution): average 2.51 s, max 3.85
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Shader code size: total 157,244 KiB, numShaders 13, average 12,096 KiB, min 4,332 KiB, max 19,238 KiB
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.93 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Average processing rate: 1.64 jobs/sec
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Total thread time: 27,276 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Total thread preprocess time: 49,61 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Percentage time preprocessing: 181.88%
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.430000
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.25% of total time (compiled    3 times, average 1.93 sec, max 2.98 sec, min 1.32 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 19.42% of total time (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.03% of total time (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.68% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.32% of total time (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Materials Translated:    147
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Material Translation Only: 0.06 s (37%)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-08.26.08:106][404]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.26.40:173][ 36]Cmd: DELETE
+[2026.01.14-08.26.40:173][ 36]Cmd: ACTOR DELETE
+[2026.01.14-08.26.40:175][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-08.26.40:175][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-08.26.40:194][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.14-08.26.40:196][ 36]LogEditorActor: Deleted 2 Actors (0.023 secs)
+[2026.01.14-08.27.08:536][537]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.27.08:597][537]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/game/Downloads/AMPHITRITE_decimate_to_Unreal.fbx]
+[2026.01.14-08.27.11:888][537]LogSlate: Window 'Import Content' being destroyed
+[2026.01.14-08.27.11:905][537]LogInterchangeEngine: [Pending] Importing
+[2026.01.14-08.27.11:976][538]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.27.14:967][540]LogStreaming: Display: FlushAsyncLoading(441): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.27.16:028][546]LogStaticMesh: Display: Building static mesh AMPHITRITE_decimate_to_Unreal (Required Memory Estimate: 705.939842 MB)...
+[2026.01.14-08.27.20:211][936]LogStaticMesh: Adjacency [0.16s], tris: 471290, UVs 1
+[2026.01.14-08.27.20:703][974]LogStaticMesh: Clustering [0.49s]. Ratio: 1.016295
+[2026.01.14-08.27.20:759][978]LogStaticMesh: Leaves [0.06s]
+[2026.01.14-08.27.25:142][354]LogStaticMesh: Reduce [4.38s]
+[2026.01.14-08.27.27:139][568]LogStaticMesh: Fallback [2.00s], num tris: 39599
+[2026.01.14-08.27.27:628][621]LogStaticMesh: Fallback [0.49s], num tris: 9359
+[2026.01.14-08.27.27:738][629]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.27.27:738][629]LogStaticMesh:   Input: 7677 Clusters, 966836 Triangles and 609910 Vertices
+[2026.01.14-08.27.27:738][629]LogStaticMesh:   Output without splits: 7677 Clusters, 966836 Triangles and 638989 Vertices
+[2026.01.14-08.27.27:738][629]LogStaticMesh:   Output with splits: 7677 Clusters, 966836 Triangles and 638989 Vertices
+[2026.01.14-08.27.27:748][630]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7677, Slow Path Clusters: 0, 1 Material: 7677, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.27.27:866][638]LogStaticMesh: WritePages:
+[2026.01.14-08.27.27:866][638]LogStaticMesh:   Root: GPU size: 32068 bytes. 1 Pages. 32068.000 bytes per page (97.864% utilization).
+[2026.01.14-08.27.27:866][638]LogStaticMesh:   Streaming: GPU size: 6197628 bytes. 48 Pages (45 with relative encoding). 129117.250 bytes per page (98.509% utilization).
+[2026.01.14-08.27.27:866][638]LogStaticMesh:   Page data disk size: 5117576 bytes. Fixup data size: 42624 bytes.
+[2026.01.14-08.27.27:866][638]LogStaticMesh:   Total GPU size: 6229696 bytes, Total disk size: 5160200 bytes.
+[2026.01.14-08.27.27:869][638]LogStaticMesh: Encode [0.24s]
+[2026.01.14-08.27.27:874][638]LogStaticMesh: NaniteBuild [7.82s]
+[2026.01.14-08.27.28:958][752]LogStaticMesh: Built static mesh [12.93s] /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.27.32:992][155]LogStaticMesh: Warning: AMPHITRITE_decimate_to_Unreal has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.01.14-08.27.32:992][155]LogStaticMesh: Warning: AMPHITRITE_decimate_to_Unreal has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2026.01.14-08.27.32:992][155]LogStaticMesh: Warning: AMPHITRITE_decimate_to_Unreal has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.01.14-08.27.32:995][156]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.004 Y=-0.003 Z=0.001, BoxExtent=(X=0.673 Y=0.987 Z=1.003), SphereRadius=(2.262577)) and MeshDescription Bounds (Origin=X=0.000 Y=0.001 Z=-0.000, BoxExtent=(X=0.668 Y=0.979 Z=1.000), SphereRadius=(1.546559)) is significative for StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.27.33:067][157]LogInterchangeEngine: Display: Interchange import completed [C:/Users/game/Downloads/AMPHITRITE_decimate_to_Unreal.fbx]
+[2026.01.14-08.27.33:067][157]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.01.14-08.27.33:067][157]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.01.14-08.27.33:067][157]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/game/Downloads/CHEVAL_MARLY_decimate_to_Unreal.fbx]
+[2026.01.14-08.27.33:767][208]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.27.41:745][210]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.004 Y=-0.003 Z=0.001, BoxExtent=(X=0.673 Y=0.987 Z=1.003), SphereRadius=(2.262577)) and MeshDescription Bounds (Origin=X=0.000 Y=0.001 Z=-0.000, BoxExtent=(X=0.668 Y=0.979 Z=1.000), SphereRadius=(1.546559)) is significative for StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.27.41:762][210]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.27.41:765][211]LogMaterial: Display: Material /Game/Meshes/AMPHITRITE_opti_ZB.AMPHITRITE_opti_ZB needed to have new flag set bUsedWithNanite !
+[2026.01.14-08.27.44:112][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2802.041260
+[2026.01.14-08.27.44:203][214]LogStaticMesh: Display: Building static mesh CHEVAL_MARLY_decimate_to_Unreal (Required Memory Estimate: 1622.470372 MB)...
+[2026.01.14-08.27.44:387][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.27.44:387][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2802.270508, Update Interval: 305.480499
+[2026.01.14-08.27.53:431][842]LogStaticMesh: Adjacency [0.67s], tris: 1083184, UVs 1
+[2026.01.14-08.27.54:918][922]LogStaticMesh: Clustering [1.49s]. Ratio: 1.016661
+[2026.01.14-08.27.55:008][926]LogStaticMesh: Leaves [0.09s]
+[2026.01.14-08.28.05:643][502]LogStaticMesh: Reduce [10.62s]
+[2026.01.14-08.28.06:322][556]LogStaticMesh: Fallback [0.68s], num tris: 12947
+[2026.01.14-08.28.06:663][584]LogStaticMesh: Fallback [0.34s], num tris: 5550
+[2026.01.14-08.28.06:914][597]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.28.06:914][597]LogStaticMesh:   Input: 17664 Clusters, 2224270 Triangles and 1410048 Vertices
+[2026.01.14-08.28.06:914][597]LogStaticMesh:   Output without splits: 17664 Clusters, 2224270 Triangles and 1472491 Vertices
+[2026.01.14-08.28.06:914][597]LogStaticMesh:   Output with splits: 17664 Clusters, 2224270 Triangles and 1472491 Vertices
+[2026.01.14-08.28.06:934][598]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 17664, Slow Path Clusters: 0, 1 Material: 17664, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.28.07:227][612]LogStaticMesh: WritePages:
+[2026.01.14-08.28.07:227][612]LogStaticMesh:   Root: GPU size: 32616 bytes. 1 Pages. 32616.000 bytes per page (99.536% utilization).
+[2026.01.14-08.28.07:227][612]LogStaticMesh:   Streaming: GPU size: 14457420 bytes. 111 Pages (105 with relative encoding). 130247.023 bytes per page (99.371% utilization).
+[2026.01.14-08.28.07:227][612]LogStaticMesh:   Page data disk size: 12273060 bytes. Fixup data size: 100856 bytes.
+[2026.01.14-08.28.07:227][612]LogStaticMesh:   Total GPU size: 14490036 bytes, Total disk size: 12373916 bytes.
+[2026.01.14-08.28.07:233][612]LogStaticMesh: Encode [0.57s]
+[2026.01.14-08.28.07:242][613]LogStaticMesh: NaniteBuild [14.48s]
+[2026.01.14-08.28.07:867][662]LogStaticMesh: Built static mesh [23.67s] /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.28.17:655][368]LogInterchangeEngine: Display: Interchange import completed [C:/Users/game/Downloads/CHEVAL_MARLY_decimate_to_Unreal.fbx]
+[2026.01.14-08.28.17:656][368]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.14-08.28.17:656][368]LogInterchangeEngine: [Success] Import Done
+[2026.01.14-08.28.26:331][202]LogMaterial: Display: Material /Game/Meshes/UMesh_ZB_CHEVAL_MARLY1_1.UMesh_ZB_CHEVAL_MARLY1_1 needed to have new flag set bUsedWithNanite !
+[2026.01.14-08.28.35:547][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-08.28.35:547][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/AMPHITRITE_opti_ZB] ([1] browsable assets)...
+[2026.01.14-08.28.35:622][144]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/AMPHITRITE_opti_ZB.AMPHITRITE_opti_ZB]
+[2026.01.14-08.28.35:622][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/AMPHITRITE_opti_ZB]
+[2026.01.14-08.28.35:622][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/AMPHITRITE_opti_ZB" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/AMPHITRITE_opti_ZB.uasset" SILENT=true
+[2026.01.14-08.28.35:628][144]LogSavePackage: Moving output files for package: /Game/Materials/AMPHITRITE_opti_ZB
+[2026.01.14-08.28.35:628][144]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/AMPHITRITE_opti_ZBB9C3E10D4B2E5FF71E401B9B0434DCAD.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/AMPHITRITE_opti_ZB.uasset'
+[2026.01.14-08.28.35:629][144]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/UMesh_ZB_CHEVAL_MARLY1_1] ([1] browsable assets)...
+[2026.01.14-08.28.35:638][144]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/UMesh_ZB_CHEVAL_MARLY1_1.UMesh_ZB_CHEVAL_MARLY1_1]
+[2026.01.14-08.28.35:638][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UMesh_ZB_CHEVAL_MARLY1_1]
+[2026.01.14-08.28.35:638][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UMesh_ZB_CHEVAL_MARLY1_1" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/UMesh_ZB_CHEVAL_MARLY1_1.uasset" SILENT=true
+[2026.01.14-08.28.35:644][144]LogSavePackage: Moving output files for package: /Game/Materials/UMesh_ZB_CHEVAL_MARLY1_1
+[2026.01.14-08.28.35:644][144]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/UMesh_ZB_CHEVAL_MARLY1_1D7C2C2004A42749971551C8623168EFD.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/UMesh_ZB_CHEVAL_MARLY1_1.uasset'
+[2026.01.14-08.28.35:645][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.111 ms (total: 633.494 ms)
+[2026.01.14-08.28.35:722][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.01.14-08.28.35:748][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.14-08.28.35:773][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.01.14-08.28.35:794][144]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.14-08.28.35:794][144]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.14-08.28.35:794][144]LogContentValidation: Enabled validators:
+[2026.01.14-08.28.35:794][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-08.28.35:794][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-08.28.35:794][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-08.28.35:794][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-08.28.35:794][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-08.28.35:794][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-08.28.35:794][144]AssetCheck: /Game/Materials/AMPHITRITE_opti_ZB Validating asset
+[2026.01.14-08.28.35:794][144]AssetCheck: /Game/Materials/UMesh_ZB_CHEVAL_MARLY1_1 Validating asset
+[2026.01.14-08.28.35:803][144]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-08.28.36:906][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.28.36:906][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.28.36:907][234]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_9
+[2026.01.14-08.28.37:620][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.14-08.28.37:621][297]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.01.14-08.28.37:628][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.28.37:628][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.28.37:629][297]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_10
+[2026.01.14-08.28.38:789][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.28.42:469][756]Cmd: DELETE
+[2026.01.14-08.28.42:469][756]Cmd: ACTOR DELETE
+[2026.01.14-08.28.42:472][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-08.28.42:494][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.01.14-08.28.42:495][756]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.01.14-08.28.45:143][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.28.45:143][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.28.45:143][971]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_11
+[2026.01.14-08.28.46:197][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.14-08.28.46:200][ 76]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.01.14-08.28.46:206][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.28.46:206][ 76]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal
+[2026.01.14-08.28.46:207][ 76]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_12
+[2026.01.14-08.28.47:304][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.28.51:922][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.28.53:352][754]Cmd: DELETE
+[2026.01.14-08.28.53:352][754]Cmd: ACTOR DELETE
+[2026.01.14-08.28.53:353][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.14-08.28.53:376][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.01.14-08.28.53:377][754]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.01.14-08.28.57:473][166]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.28.57:536][166]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.14-08.28.57:542][166]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.14-08.28.57:553][166]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.01.14-08.28.57:570][166]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.01.14-08.28.57:655][166]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.01.14-08.28.57:657][166]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.01.14-08.28.58:861][167]LogPSOHitching: Encountered 400 PSO creation hitches so far (95 graphics, 305 compute). 0 of them were precached.
+[2026.01.14-08.29.00:838][253]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/game/Downloads/CHEVAL_MARLY_decimate_to_Unreal.fbx]
+[2026.01.14-08.29.06:474][253]LogSlate: Window 'Reimport Content' being destroyed
+[2026.01.14-08.29.06:494][253]LogInterchangeEngine: [Pending] Importing
+[2026.01.14-08.29.14:391][256]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.29.14:391][256]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-08.29.14:391][256]LogShaderCompilers: Display: Total job queries 2 641, among them cache hits 701 (26.54%), DDC hits 1 809 (68.50%), Duplicates 114 (4.32%)
+[2026.01.14-08.29.14:391][256]LogShaderCompilers: Display: Tracking 1 826 distinct input hashes that result in 1 150 distinct outputs (62.98%)
+[2026.01.14-08.29.14:391][256]LogShaderCompilers: Display: RAM used: 11,76 MiB of 819,20 MiB budget. Usage: 1.44%
+[2026.01.14-08.29.14:391][256]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Shaders Compiled: 17
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Average time worker was idle: 139.41 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Job execution time: average 2.25 s, max 3.78 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Job life time (pending + execution): average 2.30 s, max 3.85
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Shader code size: total 193,619 KiB, numShaders 17, average 11,389 KiB, min 4,332 KiB, max 19,238 KiB
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.95 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Average processing rate: 1.71 jobs/sec
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Total thread time: 32,406 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Total thread preprocess time: 51,002 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Percentage time preprocessing: 157.38%
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Effective parallelization: 3.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.407279
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.06% of total time (compiled    5 times, average 1.82 sec, max 2.98 sec, min 1.32 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 16.34% of total time (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.97% of total time (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.67% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.52% of total time (compiled    4 times, average 0.85 sec, max 0.92 sec, min 0.73 sec)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Materials Translated:    154
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-08.29.14:392][256]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.29.17:466][292]LogStaticMesh: Display: Building static mesh CHEVAL_MARLY_decimate_to_Unreal (Required Memory Estimate: 1622.471734 MB)...
+[2026.01.14-08.29.17:486][292]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal) ...
+[2026.01.14-08.29.21:850][292]LogStaticMesh: Adjacency [0.23s], tris: 1083185, UVs 1
+[2026.01.14-08.29.22:641][292]LogStaticMesh: Clustering [0.79s]. Ratio: 1.017133
+[2026.01.14-08.29.22:690][292]LogStaticMesh: Leaves [0.05s]
+[2026.01.14-08.29.30:057][292]LogStaticMesh: Reduce [7.36s]
+[2026.01.14-08.29.30:336][292]LogStaticMesh: Fallback [0.28s], num tris: 13383
+[2026.01.14-08.29.30:511][292]LogStaticMesh: Fallback [0.17s], num tris: 5226
+[2026.01.14-08.29.30:676][292]LogStaticMesh: ConstrainClusters:
+[2026.01.14-08.29.30:676][292]LogStaticMesh:   Input: 17639 Clusters, 2220650 Triangles and 1407653 Vertices
+[2026.01.14-08.29.30:676][292]LogStaticMesh:   Output without splits: 17639 Clusters, 2220650 Triangles and 1469896 Vertices
+[2026.01.14-08.29.30:676][292]LogStaticMesh:   Output with splits: 17639 Clusters, 2220650 Triangles and 1469896 Vertices
+[2026.01.14-08.29.30:690][292]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 17639, Slow Path Clusters: 0, 1 Material: 17639, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.01.14-08.29.30:854][292]LogStaticMesh: WritePages:
+[2026.01.14-08.29.30:855][292]LogStaticMesh:   Root: GPU size: 31832 bytes. 1 Pages. 31832.000 bytes per page (97.144% utilization).
+[2026.01.14-08.29.30:855][292]LogStaticMesh:   Streaming: GPU size: 14757088 bytes. 113 Pages (108 with relative encoding). 130593.695 bytes per page (99.635% utilization).
+[2026.01.14-08.29.30:855][292]LogStaticMesh:   Page data disk size: 13080224 bytes. Fixup data size: 99968 bytes.
+[2026.01.14-08.29.30:855][292]LogStaticMesh:   Total GPU size: 14788920 bytes, Total disk size: 13180192 bytes.
+[2026.01.14-08.29.30:859][292]LogStaticMesh: Encode [0.35s]
+[2026.01.14-08.29.30:865][292]LogStaticMesh: NaniteBuild [9.25s]
+[2026.01.14-08.29.31:221][292]LogStaticMesh: Built static mesh [13.76s] /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.29.35:645][293]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal) ...
+[2026.01.14-08.29.39:785][293]LogInterchangeEngine: Display: Interchange import completed [C:/Users/game/Downloads/CHEVAL_MARLY_decimate_to_Unreal.fbx]
+[2026.01.14-08.29.39:785][293]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.14-08.29.39:785][293]LogInterchangeEngine: [Success] Import Done
+[2026.01.14-08.29.43:353][510]LogSlate: Window 'CHEVAL_MARLY_decimate_to_Unreal' being destroyed
+[2026.01.14-08.29.43:358][510]LogSlate: Window 'CHEVAL_MARLY_decimate_to_Unreal' being destroyed
+[2026.01.14-08.29.43:403][510]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-08.29.43:403][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.29.43:475][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.14-08.29.44:666][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.29.44:666][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.29.44:666][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_13
+[2026.01.14-08.29.44:782][617]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-08.29.45:284][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.14-08.29.45:285][662]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.01.14-08.29.45:291][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.29.45:291][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-08.29.45:293][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal as actor: StaticMeshActor /Game/Levels/L_Light.L_Light:PersistentLevel.StaticMeshActor_14
+[2026.01.14-08.29.46:203][740]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.29.50:397][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.29.54:362][512]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.29.56:739][740]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.29.59:014][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.30.03:427][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.30.05:194][559]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.30.17:424][760]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.30.43:614][222]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.14-08.30.53:018][289]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.14-08.30.53:018][289]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 620.00,-650.00,190.00
+[2026.01.14-08.30.53:448][292]LogPSOHitching: Encountered 450 PSO creation hitches so far (110 graphics, 340 compute). 0 of them were precached.
+[2026.01.14-08.31.23:047][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.31.36:881][ 98]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.31.49:503][549]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.01.14-08.31.49:503][549]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.01.14-08.31.49:505][549]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Levels/L_Light.L_Light:PersistentLevel.PostProcessVolume_0
+[2026.01.14-08.31.49:508][549]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Levels/L_Light.L_Light:PersistentLevel.PostProcessVolume_0
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Total job queries 2 659, among them cache hits 707 (26.59%), DDC hits 1 815 (68.26%), Duplicates 114 (4.29%)
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Tracking 1 838 distinct input hashes that result in 1 159 distinct outputs (63.06%)
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: RAM used: 11,81 MiB of 819,20 MiB budget. Usage: 1.44%
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Shaders Compiled: 23
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Average time worker was idle: 130.56 s
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.15 s
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 3.78 s
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Job life time (pending + execution): average 2.00 s, max 3.85
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Shader code size: total 236,166 KiB, numShaders 23, average 10,268 KiB, min 4,332 KiB, max 19,238 KiB
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.31 s
+[2026.01.14-08.32.14:396][ 60]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Average processing rate: 1.87 jobs/sec
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Total thread time: 36,631 s
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Total thread preprocess time: 51,322 s
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Percentage time preprocessing: 140.11%
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Effective parallelization: 2.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.371937
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.83% of total time (compiled    5 times, average 1.82 sec, max 2.98 sec, min 1.32 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.87% of total time (compiled    7 times, average 0.83 sec, max 0.92 sec, min 0.73 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.46% of total time (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.70% of total time (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.44% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Materials Translated:    154
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-08.32.14:397][ 60]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.33.30:696][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3148.617188
+[2026.01.14-08.33.30:842][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.33.30:842][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3148.753662, Update Interval: 336.541626
+[2026.01.14-08.34.21:517][135]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.34.21:720][136]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-08.34.21:820][136]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.14-08.34.27:258][546]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.01.14-08.34.27:358][557]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.01.14-08.34.27:458][568]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 3 out of 16 tries.
+[2026.01.14-08.34.27:557][578]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 4 out of 16 tries.
+[2026.01.14-08.34.27:659][589]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 5 out of 16 tries.
+[2026.01.14-08.34.27:761][598]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 6 out of 16 tries.
+[2026.01.14-08.34.27:860][609]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 7 out of 16 tries.
+[2026.01.14-08.34.27:968][621]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 8 out of 16 tries.
+[2026.01.14-08.34.28:068][627]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 9 out of 16 tries.
+[2026.01.14-08.34.28:072][627]LogPSOHitching: Encountered 500 PSO creation hitches so far (127 graphics, 373 compute). 0 of them were precached.
+[2026.01.14-08.34.28:168][635]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 10 out of 16 tries.
+[2026.01.14-08.34.28:273][646]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 11 out of 16 tries.
+[2026.01.14-08.34.28:379][658]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 12 out of 16 tries.
+[2026.01.14-08.34.28:480][669]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 13 out of 16 tries.
+[2026.01.14-08.34.28:582][680]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 14 out of 16 tries.
+[2026.01.14-08.34.28:684][691]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 15 out of 16 tries.
+[2026.01.14-08.34.28:784][701]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 16 out of 16 tries.
+[2026.01.14-08.34.28:885][712]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 17 out of 16 tries.
+[2026.01.14-08.34.28:886][712]LogUdpMessaging: Warning: Gave up sending with 1 outstanding acks. Attempted 16 tries.
+[2026.01.14-08.34.28:888][712]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2026.01.14-08.34.32:236][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.34.34:048][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.37.03:239][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.14-08.37.03:242][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.14-08.37.03:250][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Light_Auto1
+[2026.01.14-08.37.03:250][722]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light_Auto1B0BAA42A48866DB98EE3F1AFF75B3741.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto1.umap'
+[2026.01.14-08.37.03:252][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Light' took 0.042
+[2026.01.14-08.37.03:252][722]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.01.14-08.37.03:253][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-08.37.03:390][722]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-08.37.03:489][722]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.14-08.37.03:555][722]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/AMPHITRITE_decimate_to_Unreal.AMPHITRITE_decimate_to_Unreal]
+[2026.01.14-08.37.03:555][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal]
+[2026.01.14-08.37.03:718][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/AMPHITRITE_decimate_to_Unreal_Auto1
+[2026.01.14-08.37.03:718][722]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/AMPHITRITE_decimate_to_Unreal_Au42313CDA483DB2A925BED6A3F03F76D7.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Meshes/AMPHITRITE_decimate_to_Unreal_Auto1.uasset'
+[2026.01.14-08.37.03:719][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-08.37.03:727][722]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal.CHEVAL_MARLY_decimate_to_Unreal]
+[2026.01.14-08.37.03:727][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal]
+[2026.01.14-08.37.04:049][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal_Auto1
+[2026.01.14-08.37.04:050][722]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/CHEVAL_MARLY_decimate_to_Unreal_5635413741F15237DF81EAA4AE8B5858.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal_Auto1.uasset'
+[2026.01.14-08.37.04:050][722]LogFileHelpers: Auto-saving content packages took 0.797
+[2026.01.14-08.39.40:829][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3518.758545
+[2026.01.14-08.39.40:995][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.39.40:996][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3518.907715, Update Interval: 354.609222
+[2026.01.14-08.41.18:881][837]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-08.41.18:982][837]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.14-08.41.28:161][628]LogPSOHitching: Encountered 550 PSO creation hitches so far (152 graphics, 398 compute). 0 of them were precached.
+[2026.01.14-08.41.47:789][850]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.41.50:523][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.42.09:740][816]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.42.20:076][730]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.42.43:820][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.42.53:648][456]LogDerivedDataCache: C:/Users/game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.14-08.43.49:020][470]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.43.51:908][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.44.19:790][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.45.09:977][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.45.18:591][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.46.20:954][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3918.887451
+[2026.01.14-08.46.21:113][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.46.21:113][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3919.038574, Update Interval: 346.713470
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Total job queries 2 661, among them cache hits 707 (26.57%), DDC hits 1 816 (68.25%), Duplicates 114 (4.28%)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Tracking 1 840 distinct input hashes that result in 1 161 distinct outputs (63.10%)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: RAM used: 11,83 MiB of 819,20 MiB budget. Usage: 1.44%
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Shaders Compiled: 24
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Average time worker was idle: 178.79 s
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.15 s
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Job execution time: average 1.92 s, max 3.78 s
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Job life time (pending + execution): average 1.99 s, max 3.85
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Shader code size: total 247,361 KiB, numShaders 24, average 10,307 KiB, min 4,332 KiB, max 19,238 KiB
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.20 s
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Average processing rate: 1.69 jobs/sec
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Total thread time: 38,246 s
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Total thread preprocess time: 51,354 s
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Percentage time preprocessing: 134.27%
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Effective parallelization: 2.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.336615
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.00% of total time (compiled    6 times, average 1.78 sec, max 2.98 sec, min 1.32 sec)
+[2026.01.14-08.47.14:656][915]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.20% of total time (compiled    7 times, average 0.83 sec, max 0.92 sec, min 0.73 sec)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.85% of total time (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.29% of total time (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.04% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: Materials Translated:    154
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-08.47.14:657][915]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.47.32:817][678]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2026.01.14-08.47.32:817][678]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2026.01.14-08.47.33:134][679]LogPSOHitching: Encountered 600 PSO creation hitches so far (172 graphics, 428 compute). 0 of them were precached.
+[2026.01.14-08.47.38:280][109]Cmd: TRANSACTION UNDO
+[2026.01.14-08.47.38:280][109]LogEditorTransaction: Undo Move Elements
+[2026.01.14-08.47.39:070][145]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.47.45:630][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.47.57:159][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.48.25:199][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.49.31:009][886]LogPSOHitching: Encountered 650 PSO creation hitches so far (194 graphics, 456 compute). 0 of them were precached.
+[2026.01.14-08.49.31:178][889]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-08.49.31:277][889]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.14-08.49.31:852][927]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.49.36:342][289]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.50.06:247][567]Cmd: TRANSACTION UNDO
+[2026.01.14-08.50.06:247][567]LogEditorTransaction: Undo Move Elements
+[2026.01.14-08.50.21:510][832]Cmd: TRANSACTION UNDO
+[2026.01.14-08.50.21:510][832]LogEditorTransaction: Undo Edit Focus Method
+[2026.01.14-08.50.40:666][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.50.51:044][298]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.51.17:451][586]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.51.24:280][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.51.28:301][489]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.51.40:148][505]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.51.47:095][100]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.52.02:304][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.52.14:451][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.52.22:357][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.52.23:493][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.52.34:755][240]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.53.03:258][697]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4321.195312
+[2026.01.14-08.53.03:401][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.53.03:401][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4321.328125, Update Interval: 325.778381
+[2026.01.14-08.53.12:990][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.14-08.53.12:994][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.14-08.53.13:003][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Light_Auto2
+[2026.01.14-08.53.13:003][493]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light_Auto2B9078EF940D909C178D990AB027FF423.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto2.umap'
+[2026.01.14-08.53.13:005][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Light' took 0.053
+[2026.01.14-08.53.13:005][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2026.01.14-08.53.13:005][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-08.53.13:005][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal]
+[2026.01.14-08.53.13:187][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/AMPHITRITE_decimate_to_Unreal_Auto2
+[2026.01.14-08.53.13:187][493]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/AMPHITRITE_decimate_to_Unreal_AuD699B09F4F0E32C0C9AADEBBA6114DB2.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Meshes/AMPHITRITE_decimate_to_Unreal_Auto2.uasset'
+[2026.01.14-08.53.13:188][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-08.53.13:188][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal]
+[2026.01.14-08.53.13:555][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal_Auto2
+[2026.01.14-08.53.13:555][493]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/CHEVAL_MARLY_decimate_to_Unreal_630C18E94417D1BFA0D842BA3A8E988C.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal_Auto2.uasset'
+[2026.01.14-08.53.13:556][493]LogFileHelpers: Auto-saving content packages took 0.551
+[2026.01.14-08.54.16:453][369]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2026.01.14-08.54.16:453][369]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2026.01.14-08.54.21:570][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.54.33:928][783]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.54.40:062][283]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.54.41:928][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.14-08.56.18:047][963]LogPSOHitching: Encountered 700 PSO creation hitches so far (218 graphics, 482 compute). 0 of them were precached.
+[2026.01.14-08.57.28:762][496]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.14-08.57.28:778][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.14-08.57.28:789][496]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.01.14-08.57.28:790][496]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.01.14-08.57.28:791][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Light
+[2026.01.14-08.57.28:794][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003072s)
+[2026.01.14-08.57.28:794][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Light.L_Light to /Game/Levels/UEDPIE_0_L_Light.L_Light (0.003278s)
+[2026.01.14-08.57.28:818][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.01.14-08.57.28:823][496]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Light
+[2026.01.14-08.57.28:826][496]LogPlayLevel: PIE: World Init took: (0.003043s)
+[2026.01.14-08.57.28:827][496]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.14-08.57.28:828][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.14-08.57.28:828][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.14-08.57.28:828][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.14-08.57.28:828][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.14-08.57.28:828][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.14-08.57.28:830][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.14-08.57.28:851][496]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2026.01.14-08.57.28:851][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.14-08.57.28:851][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.14-08.57.28:851][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.14-08.57.28:853][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.01.14-08.57.28:853][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.01.14-08.57.28:855][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.01.14-08.57.28:855][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.01.14-08.57.28:855][496]LogInit: FAudioDevice initialized with ID 2.
+[2026.01.14-08.57.28:855][496]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Light'.
+[2026.01.14-08.57.28:855][496]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.14-08.57.28:866][496]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.14-08.57.28:867][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Light.L_Light up for play (max tick rate 0) at 2026.01.14-09.57.28
+[2026.01.14-08.57.28:868][496]LogWorld: Bringing up level for play took: 0.001610
+[2026.01.14-08.57.28:871][496]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.01.14-08.57.28:949][496]PIE: Server logged in
+[2026.01.14-08.57.28:952][496]PIE: Play in editor total start time 0,18 seconds.
+[2026.01.14-08.57.29:061][497]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.14-08.57.29:477][500]LogPSOHitching: Encountered 750 PSO creation hitches so far (235 graphics, 515 compute). 0 of them were precached.
+[2026.01.14-08.57.31:928][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-08.57.31:929][673]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Light
+[2026.01.14-08.57.31:930][673]LogWorld: UWorld::CleanupWorld for L_Light, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-08.57.31:930][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.57.31:933][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.14-08.57.31:935][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-08.57.31:955][673]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.14-08.57.31:956][673]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.14-08.57.31:959][673]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.01.14-08.57.31:961][673]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.01.14-08.57.31:967][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.14-08.57.31:970][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.14-08.57.32:113][674]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.01.14-08.59.14:934][482]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.59.14:934][482]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-08.59.14:934][482]LogShaderCompilers: Display: Total job queries 2 673, among them cache hits 708 (26.49%), DDC hits 1 826 (68.31%), Duplicates 114 (4.26%)
+[2026.01.14-08.59.14:934][482]LogShaderCompilers: Display: Tracking 1 851 distinct input hashes that result in 1 171 distinct outputs (63.26%)
+[2026.01.14-08.59.14:934][482]LogShaderCompilers: Display: RAM used: 11,90 MiB of 819,20 MiB budget. Usage: 1.45%
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Shaders Compiled: 25
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100%)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Average time worker was idle: 208.91 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.15 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Job execution time: average 1.94 s, max 3.78 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Job life time (pending + execution): average 2.01 s, max 3.85
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Shader code size: total 261,318 KiB, numShaders 25, average 10,452 KiB, min 4,332 KiB, max 19,238 KiB
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.74 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Average processing rate: 1.49 jobs/sec
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Total thread time: 40,429 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Total thread preprocess time: 51,614 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Percentage time preprocessing: 127.66%
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.301843
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.49% of total time (compiled    6 times, average 1.78 sec, max 2.98 sec, min 1.32 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.37% of total time (compiled    7 times, average 0.83 sec, max 0.92 sec, min 0.73 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.10% of total time (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 8.79% of total time (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 8.55% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Materials Translated:    154
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-08.59.14:935][482]LogShaderCompilers: Display: ================================================
+[2026.01.14-08.59.24:276][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4702.196777
+[2026.01.14-08.59.25:278][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-08.59.25:278][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4702.864258, Update Interval: 329.909363
+[2026.01.14-09.00.56:856][109]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-09.00.56:955][109]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.14-09.00.57:103][109]LogPSOHitching: Encountered 800 PSO creation hitches so far (264 graphics, 536 compute). 0 of them were precached.
+[2026.01.14-09.03.18:937][244]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 1429 x 804
+[2026.01.14-09.03.19:037][245]LogClient: High resolution screenshot saved as D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2026.01.14-09.03.22:154][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.14-09.03.22:158][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.14-09.03.22:167][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Light_Auto3
+[2026.01.14-09.03.22:167][496]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light_Auto363CB61224C803EEDFA63B7A4DBE79214.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto3.umap'
+[2026.01.14-09.03.22:169][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Light' took 0.040
+[2026.01.14-09.03.22:169][496]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2026.01.14-09.03.55:246][922]Cmd: r.ResetRenderTargetsExtent
+[2026.01.14-09.03.55:246][922]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2026.01.14-09.03.55:246][922]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2026.01.14-09.04.39:626][155]Cmd: TRANSACTION UNDO
+[2026.01.14-09.04.39:626][155]LogEditorTransaction: Undo Edit Source Angle
+[2026.01.14-09.05.02:802][318]LogCore: Display: Tracing Screenshot "HighresScreenshot00001" taken with size: 1429 x 804
+[2026.01.14-09.05.02:917][319]LogClient: High resolution screenshot saved as D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: ================================================
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Total job queries 2 817, among them cache hits 771 (27.37%), DDC hits 1 844 (65.46%), Duplicates 146 (5.18%)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Tracking 1 900 distinct input hashes that result in 1 195 distinct outputs (62.89%)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: RAM used: 12,01 MiB of 819,20 MiB budget. Usage: 1.47%
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Shaders Compiled: 56
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Jobs assigned 56, completed 56 (100%)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Average time worker was idle: 121.95 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.15 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 3.78 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 3.85
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Shader code size: total 406,686 KiB, numShaders 56, average 7,262 KiB, min 2,902 KiB, max 19,238 KiB
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.05 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Jobs were issued in 56 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Average processing rate: 2.07 jobs/sec
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Total thread time: 51,921 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Total thread preprocess time: 54,105 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Percentage time preprocessing: 104.21%
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Effective parallelization: 1.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.239967
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.09 sec, max 3.09 sec, min 3.09 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.18% of total time (compiled   23 times, average 0.59 sec, max 0.92 sec, min 0.32 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.63% of total time (compiled    6 times, average 1.78 sec, max 2.98 sec, min 1.32 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.20% of total time (compiled    2 times, average 2.65 sec, max 2.96 sec, min 2.33 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 7.14% of total time (compiled   15 times, average 0.25 sec, max 0.34 sec, min 0.17 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 6.85% of total time (compiled    1 times, average 3.55 sec, max 3.55 sec, min 3.55 sec)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: === Material stats ===
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Materials Translated:    154
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.14-09.05.15:153][455]LogShaderCompilers: Display: ================================================
+[2026.01.14-09.05.26:162][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5064.070312
+[2026.01.14-09.05.27:496][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-09.05.27:496][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5065.070312, Update Interval: 313.403717
+[2026.01.14-09.11.18:213][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5416.113770
+[2026.01.14-09.11.19:211][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-09.11.19:211][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5416.778320, Update Interval: 341.848206
+[2026.01.14-09.13.22:311][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.14-09.13.22:315][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.14-09.13.22:323][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_Light_Auto4
+[2026.01.14-09.13.22:323][916]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light_Auto48A8ECF584BEE34EA4C1C4594B73325EC.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Levels/L_Light_Auto4.umap'
+[2026.01.14-09.13.22:324][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_Light' took 0.040
+[2026.01.14-09.13.22:324][916]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2026.01.14-09.13.22:325][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-09.13.22:325][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal]
+[2026.01.14-09.13.22:502][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/AMPHITRITE_decimate_to_Unreal_Auto4
+[2026.01.14-09.13.22:502][916]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/AMPHITRITE_decimate_to_Unreal_Au4E45BAA04F3E4E9363ADC2BEA8921DBC.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Meshes/AMPHITRITE_decimate_to_Unreal_Auto4.uasset'
+[2026.01.14-09.13.22:502][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-09.13.22:502][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal]
+[2026.01.14-09.13.22:893][916]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal_Auto4
+[2026.01.14-09.13.22:893][916]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/CHEVAL_MARLY_decimate_to_Unreal_4F7A1B5B4C9D1966E92A658B3C7629C9.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/Autosaves/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal_Auto4.uasset'
+[2026.01.14-09.13.22:895][916]LogFileHelpers: Auto-saving content packages took 0.570
+[2026.01.14-09.13.23:133][918]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.14-09.13.23:233][918]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.14-09.17.43:296][698]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5801.197266
+[2026.01.14-09.17.44:297][701]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.14-09.17.44:297][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5801.864746, Update Interval: 332.905060
+[2026.01.14-09.18.46:295][ 10]Cmd: r.ResetRenderTargetsExtent
+[2026.01.14-09.18.46:295][ 10]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2026.01.14-09.18.46:295][ 10]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2026.01.14-09.18.47:002][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.14-09.18.47:005][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.14-09.18.47:049][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Light" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.14-09.18.47:089][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.01.14-09.18.47:097][ 89]LogSavePackage: Moving output files for package: /Game/Levels/L_Light
+[2026.01.14-09.18.47:097][ 89]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/L_Light58FE87A24D3CEA486584E88C9C584DFE.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap'
+[2026.01.14-09.18.47:107][ 89]LogFileHelpers: Saving map 'L_Light' took 0.058
+[2026.01.14-09.18.47:107][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-09.18.47:107][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/AMPHITRITE_decimate_to_Unreal]
+[2026.01.14-09.18.47:107][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/AMPHITRITE_decimate_to_Unreal" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/AMPHITRITE_decimate_to_Unreal.uasset" SILENT=true
+[2026.01.14-09.18.47:240][ 89]LogSavePackage: Moving output files for package: /Game/Meshes/AMPHITRITE_decimate_to_Unreal
+[2026.01.14-09.18.47:240][ 89]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/AMPHITRITE_decimate_to_UnrealDB19D3CA4955683C1D1465AB81CE03F9.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/AMPHITRITE_decimate_to_Unreal.uasset'
+[2026.01.14-09.18.47:241][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal] ([1] browsable assets)...
+[2026.01.14-09.18.47:242][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal]
+[2026.01.14-09.18.47:242][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal" FILE="D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/CHEVAL_MARLY_decimate_to_Unreal.uasset" SILENT=true
+[2026.01.14-09.18.47:538][ 89]LogSavePackage: Moving output files for package: /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal
+[2026.01.14-09.18.47:538][ 89]LogSavePackage: Moving 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/CHEVAL_MARLY_decimate_to_UnrealD2F8CBF84D78C4939E1B3E9CCB0E2097.tmp' to 'D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/CHEVAL_MARLY_decimate_to_Unreal.uasset'
+[2026.01.14-09.18.47:550][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 545.622 ms (total: 1.17 sec)
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: Enabled validators:
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.14-09.18.47:595][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.14-09.18.47:596][ 89]AssetCheck: /Game/Levels/L_Light Validating asset
+[2026.01.14-09.18.47:596][ 89]AssetCheck: /Game/Meshes/AMPHITRITE_decimate_to_Unreal Validating asset
+[2026.01.14-09.18.47:596][ 89]AssetCheck: /Game/Meshes/CHEVAL_MARLY_decimate_to_Unreal Validating asset
+[2026.01.14-09.18.47:610][ 89]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.14-09.18.48:721][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.14-09.18.48:750][211]LogStall: Shutdown...
+[2026.01.14-09.18.48:750][211]LogStall: Shutdown complete.
+[2026.01.14-09.18.48:769][211]LogSlate: Window 'Duncan_Lighting - Unreal Editor' being destroyed
+[2026.01.14-09.18.48:865][211]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2026.01.14-09.18.48:896][212]Cmd: QUIT_EDITOR
+[2026.01.14-09.18.48:896][212]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.14-09.18.48:901][212]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.14-09.18.48:902][212]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.14-09.18.48:902][212]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.14-09.18.48:905][212]LogWorld: UWorld::CleanupWorld for L_Light, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-09.18.48:905][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-09.18.48:912][212]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.14-09.18.48:914][212]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.14-09.18.48:916][212]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.14-09.18.48:924][212]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-09.18.48:924][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-09.18.48:924][212]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.14-09.18.48:924][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.14-09.18.48:929][212]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.14-09.18.48:929][212]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.14-09.18.48:932][212]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.14-09.18.48:971][212]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.14-09.18.48:971][212]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.14-09.18.48:971][212]LogAudio: Display: Audio Device unregistered from world 'L_Light'.
+[2026.01.14-09.18.48:971][212]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.14-09.18.48:971][212]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.14-09.18.48:974][212]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.14-09.18.48:993][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.14-09.18.48:993][212]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.14-09.18.48:994][212]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.01.14-09.18.48:998][212]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.14-09.18.48:998][212]LogExit: Preparing to exit.
+[2026.01.14-09.18.49:053][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.14-09.18.49:381][212]LogEditorDataStorage: Deinitializing
+[2026.01.14-09.18.49:492][212]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.14-09.18.49:541][212]LogExit: Editor shut down
+[2026.01.14-09.18.49:545][212]LogExit: Transaction tracking system shut down
+[2026.01.14-09.18.49:928][212]LogExit: Object subsystem successfully closed.
+[2026.01.14-09.18.50:043][212]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.14-09.18.50:213][212]LogMemoryProfiler: Shutdown
+[2026.01.14-09.18.50:214][212]LogNetworkingProfiler: Shutdown
+[2026.01.14-09.18.50:215][212]LoadingProfiler: Shutdown
+[2026.01.14-09.18.50:215][212]LogTimingProfiler: Shutdown
+[2026.01.14-09.18.50:221][212]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.14-09.18.50:221][212]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.14-09.18.50:617][212]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.14-09.18.50:624][212]RenderDocPlugin: plugin has been unloaded.
+[2026.01.14-09.18.50:648][212]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.14-09.18.50:648][212]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B70E2EC40-41F1-E339-6EAA-B8AE66B2E893%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1f3770044b4a5517f51a07b81de47efa%7C7de091a22b5e451ba801e10f93cfa599%7C320c5d8c-aeb9-431d-8671-f555480ae517&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.14-09.18.53:190][212]LogEOSSDK: Warning: LogHttp: 00000286FF06D800: request was cancelled
+[2026.01.14-09.18.53:201][212]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.14-09.18.53:202][212]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.14-09.18.53:215][212]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.14-09.18.53:215][212]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.14-09.18.53:215][212]LogPakFile: Destroying PakPlatformFile
+[2026.01.14-09.18.53:615][212]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.14-09.18.53:651][212]LogExit: Exiting.
+[2026.01.14-09.18.53:668][212]Log file closed, 01/14/26 10:18:53

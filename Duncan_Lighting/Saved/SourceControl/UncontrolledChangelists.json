@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Levels/L_Light.umap",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/FemaleHead1.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/eyes1.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/eyes.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/FemaleHead.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/AMPHITRITE_opti_ZB.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Materials/UMesh_ZB_CHEVAL_MARLY1_1.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/AMPHITRITE_decimate_to_Unreal.uasset",
+				"D:/Chenot_Duncan/Unreal/Lighting/Duncan_Lighting/Content/Meshes/CHEVAL_MARLY_decimate_to_Unreal.uasset"
+			]
+		}
+	]
+}
